@@ -1,20 +1,43 @@
-GitHub Bio: Alemkhan | Frontend Enthusiast 🚀
+# Alemkhan Bexeiit
 
-Hey there! 👋 I'm Alemkhan, a passionate frontend enthusiast with an insatiable thirst for creating captivating user experiences. 🌟
+## About Me 👨‍💻
+I'm a passionate backend developer with a keen interest in creating robust and efficient server-side applications. 
+My goal is to contribute to innovative projects and continue learning in this ever-evolving field.
 
-About Me:
-I believe that the web is an ever-evolving canvas, and as a frontend developer, I take immense pleasure in translating designs into interactive and pixel-perfect websites and web applications. My journey in the world of code began with HTML and CSS, and since then, I've been on a relentless quest to master the art of JavaScript to bring life and functionality to my creations.
+## Skills 🛠️
+- **Languages:** Java, JavaScript, Python, PHP
+- **Database:** SQL
+- **Focus Area:** Backend Development
 
-What I Love:
-Nothing excites me more than the thrill of working with cutting-edge technologies, frameworks, and libraries. Whether it's crafting smooth animations, optimizing performance, or enhancing accessibility, I revel in the process of constantly learning and staying up-to-date with the latest trends in frontend development.
+## Tech Stack 💻
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-My Passion:
-User-centered design is at the core of my passion. I believe in writing clean and maintainable code that not only looks great but also creates seamless interactions, leaving users with a smile on their faces. Collaborating with like-minded developers and designers is where I thrive, as it fuels my creativity and enables me to deliver remarkable projects.
+## Connect with Me 🌐
+- [LinkedIn](https://www.linkedin.com/in/bexeiit)
+- [LeetCode](https://leetcode.com/u/spyravv/)
+- [GitHub](https://github.com/AlemkhanIT)
 
-Tech Stack:
-🔧 HTML | CSS | JavaScript | React | Vue.js | Sass | Bootstrap
+## Contact 📫
+- Email: spyrav@icloud.com
 
-Let's Connect:
-I'm always eager to connect with fellow developers, designers, and anyone who shares a love for frontend magic! Feel free to drop me a line; I'm open to collaborating on exciting projects or discussing the latest industry trends.
+## Currently Learning 🚀
+I'm always looking to expand my skill set. Currently, I'm diving deeper into:
+- Advanced Java concepts and Spring Framework
+- Node.js for JavaScript backend development
+- Database optimization techniques
+- RESTful API design principles
 
-Join me on this journey as we explore the vast landscape of frontend development, one line of code at a time! 🚀✨
+## Projects 🏗️
+Check out my repositories below to see some of the projects I've been working on!
+
+## Let's Collaborate 🤝
+I'm always open to collaborating on interesting projects. 
+If you have an idea or want to work together, feel free to reach out!
+
+---
+
+*"The only way to do great work is to love what you do." - Steve Jobs*
