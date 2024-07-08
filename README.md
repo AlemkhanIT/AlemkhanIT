@@ -1,13 +1,12 @@
 # Alemkhan Bexeiit
 
 ## About Me 👨‍💻
-I'm a passionate backend developer with a keen interest in creating robust and efficient server-side applications. 
-My goal is to contribute to innovative projects and continue learning in this ever-evolving field.
+I'm interested in fullstack development with a keen interest in creating robust and efficient server-side applications with quality client-side solutions . My goal is to contribute to innovative projects and continue learning in this ever-evolving field.
 
 ## Skills 🛠️
 - **Languages:** Java, JavaScript, Python, PHP
-- **Database:** SQL
-- **Focus Area:** Backend Development
+- **Databases:** SQL, NoSQL
+- **Focus Area:** Fullstack Development
 
 ## Tech Stack 💻
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
