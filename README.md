@@ -6,6 +6,7 @@ I'm interested in fullstack development with a keen interest in creating robust 
 ## Skills 🛠️
 - **Languages:** Java, JavaScript, Python, PHP
 - **Databases:** SQL, NoSQL
+- - **Servers:** Nginx, Apache
 - **Focus Area:** Fullstack Development
 
 ## Tech Stack 💻
