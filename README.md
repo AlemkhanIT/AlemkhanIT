@@ -32,6 +32,7 @@ I'm always looking to expand my skill set. Currently, I'm diving deeper into:
 
 ## Projects 🏗️
 Check out my repositories below to see some of the projects I've been working on!
+Or you can check my portfolio website: https://alemkhan.netlify.app/
 
 ## Let's Collaborate 🤝
 I'm always open to collaborating on interesting projects. 
